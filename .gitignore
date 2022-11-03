@@ -109,3 +109,7 @@ src/api/index.json
 src/examples/data.json
 src/tutorial/data.json
 draft.md
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+branch_structure.json
